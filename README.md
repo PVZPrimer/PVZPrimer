@@ -38,7 +38,6 @@ PVZPrimer/
 欢迎提交反馈建议、错别字修正或贡献新示例
 * 提交 Issue 或 Pull Request
 * 联系作者邮箱：PVZPrimer@gmail.com
-* 加入PVZ改版社区QQ交流群 745044080
 
 ## 💡 鸣谢
 致谢PVZ原版游戏设计与开发者，及广大 PVZ 社区爱好者的启发与支持。
