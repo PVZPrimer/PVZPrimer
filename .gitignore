@@ -1,0 +1,41 @@
+# 隐藏文件 Hidden files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 文件标签与缩略图 File tags and thumbnails
+._*
+.Spotlight-V100
+.Trashes
+.DocumentRevisions-V100
+.fseventsd
+.VolumeIcon.icns
+
+# VSCode VSCode
+.vscode/
+
+# Python虚拟环境 Python virtual environment
+venv/
+.env
+
+# 日志文件 Log file
+*.log
+
+# 临时文件 Temporary files
+*.tmp
+*.temp
+
+# 资源临时目录 Resource temporary directory
+temp/
+cache/
+
+# 其他隐藏目录 Other hidden directories
+*.swp
+*.swo
+
+# Thumbs.db Thumbs.db
+Thumbs.db
+
+# 其他 Other
+.idea/
+*.iml
